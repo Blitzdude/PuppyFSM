@@ -1,3 +1,8 @@
+/*
+Simple finite state machine based on the following paper
+https://research.ncl.ac.uk/game/mastersdegree/gametechnologies/artificialintelligence1finitestatemachines/2016%20Tutorial%208%20-%20Finite%20State%20Machines.pdf
+*/
+
 #include <iostream>
 
 #include "Puppy.h"
